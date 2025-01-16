@@ -1,0 +1,48 @@
+﻿  CSS_Cheat_C++.cpp
+C:\Users\Bob\source\repos\CSS_Cheat_C++\Memory.h(91,33): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(26,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(26,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(28,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(28,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(56,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(57,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(83,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(84,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(87,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(88,42): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(178,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(179,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(248,38): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\DrawTools.h(249,38): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "CSS_Cheat_C++.cpp")
+  
+C:\Users\Bob\source\repos\CSS_Cheat_C++\Memory.h(104,1): warning C4715: Memory::GetModuleFromProcess: значение возвращается не при всех путях выполнения
+  CSS_Cheat_C++.vcxproj -> C:\Users\Bob\source\repos\CSS_Cheat_C++\Debug\CSS_Cheat_C++.exe
